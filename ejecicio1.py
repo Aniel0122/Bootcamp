@@ -1,2 +1,2 @@
-Aniel = "Holaa Mundo"
-print (Aniel)
+aniel = "Holaa Mundo"
+print (aniel)
