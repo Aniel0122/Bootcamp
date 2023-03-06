@@ -1,4 +1,9 @@
-Aniel = "Holaa Mundo de nuevo, mi resultado"
-print (Aniel)
-class str (10):
-    print (Aniel) + 10
+aniel = "hola mundo"
+
+print(type(aniel))
+
+print(aniel)
+
+aniel = "hola mundo otra vez pero Se ha modificado el texto"
+
+print(aniel)
